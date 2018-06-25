@@ -1,0 +1,200 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-banknote {
+  width: 1.0517578125em;
+}
+
+.icon-bubble {
+  width: 1.2021484375em;
+}
+
+.icon-bulb {
+  width: 0.69140625em;
+}
+
+.icon-calendar {
+  width: 1.046875em;
+}
+
+.icon-camera {
+  width: 1.2880859375em;
+}
+
+.icon-clip {
+  width: 0.9833984375em;
+}
+
+.icon-cloud {
+  width: 1.1083984375em;
+}
+
+.icon-cup {
+  width: 1.0107421875em;
+}
+
+.icon-data {
+  width: 1.009765625em;
+}
+
+.icon-diamond {
+  width: 1.392578125em;
+}
+
+.icon-dispaly {
+  width: 1.0732421875em;
+}
+
+.icon-eye {
+  width: 1.4970703125em;
+}
+
+.icon-fire {
+  width: 0.8095703125em;
+}
+
+.icon-food {
+  width: 0.9453125em;
+}
+
+.icon-heart {
+  width: 1.111328125em;
+}
+
+.icon-lab {
+  width: 1.0361328125em;
+}
+
+.icon-like {
+  width: 1.05078125em;
+}
+
+.icon-location {
+  width: 0.8232421875em;
+}
+
+.icon-lock {
+  width: 0.7822265625em;
+}
+
+.icon-mail {
+  width: 1.4638671875em;
+}
+
+.icon-megaphone {
+  width: 1.041015625em;
+}
+
+.icon-music {
+  width: 1.12109375em;
+}
+
+.icon-news {
+  width: 1.0146484375em;
+}
+
+.icon-note {
+  width: 1.0751953125em;
+}
+
+.icon-paperplane {
+  width: 1.0927734375em;
+}
+
+.icon-params {
+  width: 1.0205078125em;
+}
+
+.icon-pen {
+  width: 0.9873046875em;
+}
+
+.icon-phone {
+  width: 0.693359375em;
+}
+
+.icon-photo {
+  width: 0.9599609375em;
+}
+
+.icon-search {
+  width: 1.076171875em;
+}
+
+.icon-settings {
+  width: 1.0537109375em;
+}
+
+.icon-shop {
+  width: 0.9697265625em;
+}
+
+.icon-sound {
+  width: 1.017578125em;
+}
+
+.icon-stack {
+  width: 1.1630859375em;
+}
+
+.icon-star {
+  width: 1.0537109375em;
+}
+
+.icon-study {
+  width: 1.1142578125em;
+}
+
+.icon-tag {
+  width: 1.1474609375em;
+}
+
+.icon-trash {
+  width: 0.888671875em;
+}
+
+.icon-truck {
+  width: 1.1337890625em;
+}
+
+.icon-t-shirt {
+  width: 1.1123046875em;
+}
+
+.icon-tv {
+  width: 1.52734375em;
+}
+
+.icon-user {
+  width: 0.9482421875em;
+}
+
+.icon-video {
+  width: 1.546875em;
+}
+
+.icon-vinyl {
+  width: 1.025390625em;
+}
+
+.icon-wallet {
+  width: 0.966796875em;
+}
+
+.icon-watch {
+  width: 0.7685546875em;
+}
